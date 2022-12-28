@@ -1,2 +1,0 @@
-# hardikrepo
-my first repository
